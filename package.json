@@ -1,0 +1,24 @@
+{
+  "name": "placeholdertypewriter",
+  "version": "0.0.1",
+  "description": "A simple implementation of an input placeholder typewriter. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cguldogan/PlaceHolderTypeWriter.git"
+  },
+  "keywords": [
+    "typewriter",
+    "placeholder",
+    "text"
+  ],
+  "author": "cguldogan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cguldogan/PlaceHolderTypeWriter/issues"
+  },
+  "homepage": "https://github.com/cguldogan/PlaceHolderTypeWriter#readme"
+}
